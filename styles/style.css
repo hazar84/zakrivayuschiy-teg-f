@@ -82,12 +82,17 @@
   line-height: normal;
   text-transform: uppercase;
   background: none;
+  /* добавл после ревью по видеообзору */
+  position: relative;
 }
 
 .theme-menu__button:disabled::before {
   content: '\25b6';
   position: absolute;
-  transform: translateX(-20px);
+  /* так было (transform) и некорректно работао на IOS*/
+  /* transform: translateX(-20px); */
+  /* inset добавил после ревью по видеобзору */
+  inset: 0 auto auto 0;
   animation: cursor 0.5s alternate ease-in-out infinite;
 }
 
