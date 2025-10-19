@@ -121,7 +121,7 @@ cd zakrivayuschiy-teg-f
 - Оптимизированные медиа-запросы
 
 ## 🌐 Публикация
-- Проект опубликован на GitHub Pages и доступен по ссылке: [Открыть проект](https://hazar84.github.io/zakrivayuschiy-teg-f/)
+- Проект опубликован на GitHub Pages и доступен по ссылке: [открыть проект](https://hazar84.github.io/zakrivayuschiy-teg-f/)
 
 ## 📈 Результаты и выводы
 
